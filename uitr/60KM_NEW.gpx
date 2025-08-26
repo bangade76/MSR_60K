@@ -23,13 +23,13 @@
     <ele>1475.6042435010795</ele>
     <name>WS 3 &amp; CP 1 | Suwanting</name>
   </wpt>
-  <wpt lat="-7.406184098726214" lon="110.41705066764553">
-    <ele>1446.9581377868788</ele>
-    <name>WS 5  |</name>
+  <wpt lat="-7.406184" lon="110.417051">
+    <ele>1450.1000000000004</ele>
+    <name>WS 5  | Drop Bag | Kopeng</name>
   </wpt>
   <wpt lat="-7.377354" lon="110.386286">
     <ele>1193.2537328359213</ele>
-    <name>WS 6 | </name>
+    <name>WS 6 | Jogoyasan</name>
   </wpt>
   <wpt lat="-7.391072" lon="110.380625">
     <ele>1279.7559111109945</ele>
@@ -37,7 +37,7 @@
   </wpt>
   <wpt lat="-7.406488" lon="110.375916">
     <ele>1270.3394103466542</ele>
-    <name>WS 8 |</name>
+    <name>WS 8 | Kragon Kulon</name>
   </wpt>
   <wpt lat="-7.40219" lon="110.404611">
     <ele>1392.9512057277934</ele>
